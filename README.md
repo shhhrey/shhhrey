@@ -1,0 +1,3 @@
+- Hi, I’m @shhhrey
+- I’m interested in woodworking and keyboards
+- I’m currently learning front end web development
